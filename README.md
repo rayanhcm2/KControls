@@ -83,7 +83,7 @@ Gets or sets the button’s indicator thickness.
 ## 2.	KGradientPanel
 This is an extended version of JPanel with awesome gradient effect. 
 Custom properties
-![Example](https://github.com/k33ptoo/KControls/blob/master/images/gradient.png)
+![Example](https://github.com/rayanhcm2/KControls/blob/main/KControls/images/gradient.png)
  - **kEndColor(Color)**
 Gets or sets the button’s gradient end color to the right.
  - **kGradientFocus(int)**
