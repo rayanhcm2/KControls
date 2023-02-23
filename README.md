@@ -4,7 +4,7 @@ These a bunch of components made for Java Swing to beautify user interfaces and 
 * KKGradientPanel
 * Frame Resize and Move Utility
 
-![Example](https://github.com/k33ptoo/KControls/blob/master/images/demo.gif)
+![Example](https://github.com/rayanhcm2/KControls/blob/main/KControls/images/demo.gif)
  
 How to install KControl(s)
  - Download jar [file](https://github.com/rayanhcm2/KControls/raw/main/KControls/dist/KControls-2.0.jar)
