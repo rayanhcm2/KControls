@@ -93,7 +93,6 @@ Gets or sets the button’s gradient end color to the left.
  - **kBorderRadius(int)**
 Gets or sets the radius of a KGradientPanel(recommended 0 to 30).
 
-## Frame Resize and Move Utility
 
 Download Jar [Here](https://github.com/rayanhcm2/KControls/raw/main/KControls/dist/KControls-2.0.jar)
 Thank you.
