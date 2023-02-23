@@ -24,7 +24,7 @@ Note: Custom properties starts with K eg KStartColor
 ## 1. KButton
 
 KButton is an extended version of JButton – it has basically everything else a JButton has, that said we will look only the custom properties.
-  ![Example](https://github.com/k33ptoo/KControls/blob/master/images/kbutton.png)
+  ![Example](https://github.com/rayanhcm2/KControls/blob/main/KControls/images/kbutton.png)
 
 Custom Properties
 
