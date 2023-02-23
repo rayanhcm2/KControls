@@ -4,7 +4,7 @@ These a bunch of components made for Java Swing to beautify user interfaces and 
 * KKGradientPanel
 * Frame Resize and Move Utility
 
-![Example](https://github.com/rayanhcm2/KControls/blob/main/KControls/images/demo.gif)
+![Example](https://github.com/rayanhcm2/KControls/blob/main/images/demo.gif)
  
 How to install KControl(s)
  - Download jar [file](https://github.com/rayanhcm2/KControls/raw/main/dist/KControls-2.0.jar)
@@ -24,7 +24,7 @@ Note: Custom properties starts with K eg KStartColor
 ## 1. KButton
 
 KButton is an extended version of JButton – it has basically everything else a JButton has, that said we will look only the custom properties.
-  ![Example](https://github.com/rayanhcm2/KControls/blob/main/KControls/images/kbutton.png)
+  ![Example](https://github.com/rayanhcm2/KControls/blob/main/images/kbutton.png)
 
 Custom Properties
 
@@ -83,7 +83,7 @@ Gets or sets the button’s indicator thickness.
 ## 2.	KGradientPanel
 This is an extended version of JPanel with awesome gradient effect. 
 Custom properties
-![Example](https://github.com/rayanhcm2/KControls/blob/main/KControls/images/gradient.png)
+![Example](https://github.com/rayanhcm2/KControls/blob/main/images/gradient.png)
  - **kEndColor(Color)**
 Gets or sets the button’s gradient end color to the right.
  - **kGradientFocus(int)**
@@ -94,5 +94,5 @@ Gets or sets the button’s gradient end color to the left.
 Gets or sets the radius of a KGradientPanel(recommended 0 to 30).
 
 
-Download Jar [Here](https://github.com/rayanhcm2/KControls/raw/main/KControls/dist/KControls-2.0.jar)
+Download Jar [Here](https://github.com/rayanhcm2/KControls/raw/main/dist/KControls-2.0.jar)
 Thank you.
