@@ -7,7 +7,7 @@ These a bunch of components made for Java Swing to beautify user interfaces and 
 ![Example](https://github.com/rayanhcm2/KControls/blob/main/KControls/images/demo.gif)
  
 How to install KControl(s)
- - Download jar [file](https://github.com/rayanhcm2/KControls/raw/main/KControls/dist/KControls-2.0.jar)
+ - Download jar [file](https://github.com/rayanhcm2/KControls/raw/main/dist/KControls-2.0.jar)
  - Open Netbeans Create your Swing application, head to Palette right
    click and select Palette Manager select Add from Jar and browse to
    the location of the downloaded jar file.
